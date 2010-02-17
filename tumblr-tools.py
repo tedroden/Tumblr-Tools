@@ -1,3 +1,4 @@
+# made by Ted Roden... but you can do whatever you want with this.
 import urllib, urllib2, sys
 from xml.dom import minidom
 
