@@ -1,0 +1,11 @@
+* Tumblr Tools
+
+This little script allows you to pull out all of the feeds that you're following on tumblr and export them as an OPML file.
+
+Why would you want to do this? This allows you to export all of the feeds that you follow on tumblr and import them into Google Reader. (just click settings -> import in google reader).
+
+To run it, download it and run:
+
+1) python tumblr-tools.py email@domain.com p4ssw0rd
+2) It will save a file called: the-people-that-i-follow-on-tumblr.opml
+3) Import that into google reader.
