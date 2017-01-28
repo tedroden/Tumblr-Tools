@@ -1,3 +1,5 @@
+This was developed before Tumblr had an API. Probably shouldn't be used anymore.
+
 # Tumblr Tools
 
 
