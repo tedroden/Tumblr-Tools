@@ -36,6 +36,6 @@ If you have [greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/748) f
 
 ## Author
 
-Made by [Ted Roden](http://tedroden.com) (@[tedroden](http://twitter.com/tedroden/))
+Made by Ted Roden (@[tedroden](http://twitter.com/tedroden/))
 Made in 2010
 
